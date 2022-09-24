@@ -5,7 +5,7 @@ function Footer() {
 
   return (
     <footer>
-      <p> Copyrights @{date} Mehnaaz Tabasum</p>
+      <p> Copyrights @{date} Mehnaaz Tabasum sssss</p>
     </footer>
   );
 }
